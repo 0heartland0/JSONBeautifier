@@ -37,4 +37,4 @@ gradle fatJar
 
 ## 致谢
 - 感谢 [NetSPI](https://github.com/NetSPI) 提供的源代码;
-- 感谢 Skay@白帽一百安全攻防实验室 提供的技术支持.
+- 感谢 [Skay](https://github.com/0linlin0)@[白帽一百安全攻防实验室](https://www.whitecap100.org) 提供的技术支持.
