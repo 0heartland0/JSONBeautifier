@@ -7,13 +7,13 @@
 
 这是一个用于美化 JSON 输出的 BurpSuite 扩展。 BApp Store 目前有一个 [python 版本](https://portswigger.net/bappstore/showbappdetails.aspx?uuid=ceed5b1568ba4b92abecce0dff1e1f2c)。 原作者没有生成jar包。 我选择生成一个jar包。 打包过程中遇到了一些小问题，已成功解决了，生成了一个新的jar包。
 
-#### Before
+#### 使用前
 <img src="/img/JSONRaw.PNG"/>
 
-#### After
+#### 使用后
 <img src="/img/JSONBeautified.PNG"/>
 
-### 编译、构建
+### 编译
 这里需要注意的是IntelliJ IDEA自带的Gradle版本比较高，会导致编译失败。 Gradle 版本需要修改才能编译成功。
 
 使用 IntelliJ IDEA 自带的 Gradle 编译结果：
