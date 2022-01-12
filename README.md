@@ -2,6 +2,8 @@
 
 English Doc | [Chinese Doc](README_CN.md)
 
+Since the BurpSuite version I am using is 1.7.x, this plugin is specially compiled for convenience.
+
 
 This is a BurpSuite extension for beautifying JSON output. The BApp Store currently has a [python version](https://portswigger.net/bappstore/showbappdetails.aspx?uuid=ceed5b1568ba4b92abecce0dff1e1f2c) in the BApp Store at the moment.. The original author did not generate a jar package. I choose to generate a jar package. Some minor problems were encountered during the packaging process, which have been successfully resolved and a new jar package was generated.
 
