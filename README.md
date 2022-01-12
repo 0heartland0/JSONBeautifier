@@ -37,4 +37,4 @@ gradle fatJar
 
 ## Thanks
 - Thanks to [NetSPI](https://github.com/NetSPI) for providing the source code;
-- Thanks to Skay(White Hat 100 Security Attack and Defense Lab) for technical support.
+- Thanks to [Skay](https://github.com/0linlin0)([White Hat 100 Security Attack and Defense Lab](https://www.whitecap100.org)) for technical support.
