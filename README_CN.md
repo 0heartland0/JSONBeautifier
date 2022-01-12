@@ -1,5 +1,7 @@
 ## JSON格式化
 
+[English Doc](README.md) | Chinese Doc
+
 这是一个用于美化 JSON 输出的 BurpSuite 扩展。 BApp Store 目前有一个 [python 版本](https://portswigger.net/bappstore/showbappdetails.aspx?uuid=ceed5b1568ba4b92abecce0dff1e1f2c)。 原作者没有生成jar包。 我选择生成一个jar包。 打包过程中遇到了一些小问题，已成功解决了，生成了一个新的jar包。
 
 #### Before
